@@ -1,0 +1,37 @@
+body{
+ background-color: #F7E39C;
+}
+
+h1, p{
+ text-align:center;
+}
+
+span{
+ color:blue;
+ text-decoration: underline;
+}
+
+.img-container{
+ margin:0 auto;
+ margin-bottom: 20px;
+ width:80%;
+}
+
+img{
+ margin: 0 auto;
+ width: 100%;
+}
+
+div{
+ display:flex;
+ flex-wrap: wrap;
+ justify-content: space-between;
+ margin:0 auto;
+ width:100%;
+ height:auto;
+}
+
+a{
+ margin: 0 auto;
+ color:rgb(47, 66, 15);
+}
